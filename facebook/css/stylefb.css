@@ -171,8 +171,11 @@ a:hover{
     color: #fff;
     font-weight: 500;
     height:40px;
-    width:150px;
+    width:200px;
     font-size: 15px;
     margin-top: 20px;
     border-radius: 5px;
+}
+.button:checked{
+    color: black;
 }
