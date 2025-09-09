@@ -1,0 +1,16 @@
+ul{
+    height:100px;
+    width:100%;
+    background-color: rgb(177, 248, 225);
+}
+li a{
+    text-decoration: none;
+    display: flex;
+    
+}
+.active{
+    font-weight: 600;
+    font-family: 'Times New Roman', Times, serif;
+    color: black;
+    background-color: beige;
+}
