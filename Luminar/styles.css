@@ -1,0 +1,47 @@
+.nav-container{
+    display: block ;
+}
+
+.navbar{
+    width:100%;
+    background-color: white;
+    color: black;
+    align-self: center;
+    display: flex;
+}
+ul{
+    height:75px;
+    width:100%;
+    background-color: white;
+    list-style-type: none;
+    display: flex;
+    /* padding: 100px; */
+}
+li a{
+    text-decoration: none;
+    display: inline-block;
+    padding:25px;
+    height:25px;
+    color: black;
+    font-size:18px;
+}
+.but{
+    margin-left: 400px;
+    align-content: center;
+    align-self: right;
+}
+.iimg{
+    align-content: center;
+    margin-top: 15px;
+}
+button{
+    border:none;
+    background-image: linear-gradient(rgb(171, 28, 174),rgb(110, 4, 129)
+    );
+    color:white;
+    height:50px;
+    width:150px;
+    border-radius: 8px;
+    font-weight: 700px;
+    margin: 0 15px;
+}
